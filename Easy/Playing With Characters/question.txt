@@ -1,0 +1,15 @@
+Sample Input
+------------
+C
+Language
+Welcome To C!!
+
+Sample Output
+-------------
+C
+Language
+Welcome To C!!
+
+==============================================================================================================================================================
+
+Question Link -> (https://www.hackerrank.com/challenges/playing-with-characters/problem)
