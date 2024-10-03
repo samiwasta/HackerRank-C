@@ -1,0 +1,31 @@
+Sample Input 
+------------
+5
+
+Sample Output
+-------------
+five
+
+Sample Input 
+------------
+8
+
+Sample Output
+-------------
+eight
+
+Sample Input 
+------------
+44
+
+Sample Output
+-------------
+Greater than 9
+
+Explanation
+-----------
+If 1 <= n <= 9 , then print the lowercase English word corresponding to the number (e.g., one for , two for , etc.); otherwise, print Greater than 9 instead.
+
+==============================================================================================================================================================
+
+Question Link -> (https://www.hackerrank.com/challenges/pointer-in-c)
