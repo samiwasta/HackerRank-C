@@ -1,0 +1,16 @@
+Sample Input 
+------------
+10564
+
+Sample Output
+-------------
+16
+
+Explanation
+-----------
+Print the sum of five digit number
+
+
+==============================================================================================================================================================
+
+Question Link -> (https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number)
