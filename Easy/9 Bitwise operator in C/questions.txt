@@ -28,4 +28,4 @@ The only line contains 2 space-separated integers, n and k.
 
 ==============================================================================================================================================================
 
-Question Link -> (https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number)
+Question Link -> (https://www.hackerrank.com/challenges/bitwise-operators-in-c)
